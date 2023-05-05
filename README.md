@@ -1,2 +1,16 @@
-# Todoey_App
-  A simple to-do list app that can add new tasks, mark off tasks and delete tasks in a simple layout. In this app I learned how to manage State with the Provider Package. I used ChangeNotifier to Manage State across the app. I implemented ListView widgets to create the layout of the app.  BottomSheet widget is used for the add tasks pop up menu. 
+# todoey_flutter
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
